@@ -1,11 +1,10 @@
 import { Link } from "react-router-dom";
-import logo from "../images/lightModeLogo.png";
 
 const Header = () => {
   return (
     <nav>
       <Link to="/">
-        <img src={logo} alt="" />
+        <img src="https://i.ibb.co/CnYh8YW/light-Mode-Logo.png" alt="" />
       </Link>
       <button>Light/Dark Mode</button>
     </nav>
