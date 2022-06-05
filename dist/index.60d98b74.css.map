@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;AAIA","sources":["src/Home.css"],"sourcesContent":[".banner-image {\r\n  width: 100%;\r\n}\r\n\r\n.home-container h1 {\r\n  margin: 20px;\r\n  text-align: center;\r\n  font-size: 3rem;\r\n}\r\n"],"names":[],"version":3,"file":"index.60d98b74.css.map","sourceRoot":"/__parcel_source_root/"}

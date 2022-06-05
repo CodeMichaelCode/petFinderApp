@@ -1,0 +1,25 @@
+nav {
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem;
+  display: flex;
+  box-shadow: 0 1px 8px -3px #858585;
+}
+
+nav img {
+  width: 100%;
+  max-width: 200px;
+  cursor: pointer;
+}
+
+nav button {
+  cursor: pointer;
+  background-color: #0000;
+  border: none;
+  padding: .5rem;
+  font-size: 1.5rem;
+}
+
+/*# sourceMappingURL=index.34b7aba5.css.map */
